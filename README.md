@@ -18,11 +18,10 @@
 
 - SR-004 (배터리 부족 알림) Flow Chart 정적 아키텍처 설계
 ![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/5521569c-b073-4448-862c-45e2ca0d400a)
-![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/0bc2f5b0-326b-4609-96a9-28c429aafd99)
+![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/05e76d37-0378-4514-82c7-bf3ae9d37eed)
 
 - SR-008 (집안 기구 App 제어) Component Diagram 정적 아키텍처 설계
-![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/fb6e7504-c290-47da-aa4e-630580fe6476)
-
+![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/f2ac013e-b5f2-4eee-a9b4-acb811c5788a)
 
 ## 스마트홈 이해관계자 요구사항 도출
 ![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/b89cfd83-b03b-4e12-93df-43a782519702)
