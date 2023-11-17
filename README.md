@@ -20,6 +20,9 @@
 ![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/5521569c-b073-4448-862c-45e2ca0d400a)
 ![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/0bc2f5b0-326b-4609-96a9-28c429aafd99)
 
+- SR-008 (집안 기구 App 제어) Component Diagram 정적 아키텍처 설계
+![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/fb6e7504-c290-47da-aa4e-630580fe6476)
+
 
 ## 스마트홈 이해관계자 요구사항 도출
 ![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/b89cfd83-b03b-4e12-93df-43a782519702)
