@@ -10,7 +10,6 @@
 - SR-003 (전등 밝기 자동 조절) Sequence Diagram 동적 아키텍처 설계
 ![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/93c5ddf4-58fe-4de0-97c7-128d7c049b59)
 ![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/ce668766-93bb-41ab-a68b-d0a993fdd211)
-![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/f41b2239-70c8-4b4d-9828-e9f434e9beb8)
 
 - SR-002 (음성 인식을 통한 제어) Component Diagram 정적 아키텍처 설계
 ![image](https://github.com/KongSunHwan/Analysis_SmartHome_System/assets/85215507/efc33386-8a4b-45b4-b7ab-791fefb14a3e)
